@@ -1,4 +1,4 @@
-++# Hospitality Domain Data Analytics Project
+# Hospitality Domain Data Analytics Project
 
 ## Overview
 
