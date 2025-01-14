@@ -10,8 +10,11 @@ Hospitality Analytics involves the process of collecting, analyzing, and interpr
 The primary tasks for this data analytics project were:
 
 1.Analyze Operational Metrics.
+
 2.Identify Guest Trends and Anomalies.
+
 3.Highlight Areas of Excellence and Improvement.
+
 4.Develop Analytical Dashboards
 
 # Data Sets Used
@@ -56,6 +59,7 @@ A sharp decline in both revenue and bookings is visible after week 27, suggestin
 
 # Project Files
 Data File: Not publicly available.
+
 Presentation: Not publicly available.
 
 # Acknowledgments
