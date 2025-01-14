@@ -48,16 +48,22 @@ Focused on financial performance with similar filters, excluding performance met
 # Key Insights
 1.Revenue & Bookings:
 Total revenue generated is 1709M with 135K total bookings.
+
 2.Performance by Hotels:
 The highest revenue-generating hotel is Atliq Exotica, while the lowest performer is Atliq Seasons.
+
 3.City-wise Revenue Trends:
 Mumbai leads in total revenue (413M), followed by Bangalore (270M), Hyderabad (219M), and Delhi (144M).
+
 4.Revenue by Booking Platform:
 Direct booking platforms contribute the most (699M), followed by other platforms.
+
 5.Booking Status:
 82% of bookings result in checkouts, while 12% are canceled. The no-show rate is low.
+
 6.Weekday vs. Weekend Performance:
 Weekdays generate more revenue (1070M) than weekends (639M), with a much higher volume of bookings.
+
 7.Weekly Trends:
 A sharp decline in both revenue and bookings is visible after week 27, suggesting possible seasonality or operational issues.
 
