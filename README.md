@@ -19,10 +19,15 @@ The primary tasks for this data analytics project were:
 
 # Data Sets Used
 1.dim_date:Dates, week numbers, day types.
+
 2.dim_hotels: Property ID, name, category, cities.
+
 3.dim_rooms: Room ID, room class.
+
 4.fact_aggregated_bookings: Property ID, check-in date, room category, bookings, capacity.
+
 5.fact_bookings: Booking ID, property ID, dates, guests, room category, booking platform, ratings, status, revenue.
+
 6.Metrics List: Various key measures and DAX formulas.
 
 # Dashboard and Report
