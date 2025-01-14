@@ -34,7 +34,7 @@ The primary tasks for this data analytics project were:
 ## Dashboard and Report
 This project showcases the power of data analytics in transforming the hospitality industry. By analyzing key metrics, guest feedback, and booking patterns, we uncovered actionable insights to enhance efficiency, elevate guest experiences, and boost revenue. These data-driven strategies position the business for sustained success, customer loyalty, and competitiveness in a dynamic market.
 - **Report**
-[View Report Here.]
+View Report:
 (https://github.com/ruchikaravindralandge/Hospitality-Domain-Data-Analytics-Project/blob/main/Hospitality%20Domain%20Data%20Analysis%20Project.pptx)
 
 ### Key Financial Metrics
